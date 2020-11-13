@@ -1,0 +1,34 @@
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor\TextEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor\TextEditor\obj\x86\Debug\TextEditor.TextEditor.resources
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor\TextEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor\TextEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+U:\Users\Asim Rehman\Documents\Visual Studio 2010\Projects\C#\thecodingguys\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+C:\Users\drewl\Downloads\texteditor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csprojAssemblyReference.cache
+C:\Users\drewl\Downloads\texteditor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+C:\Users\drewl\Downloads\texteditor\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+D:\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csprojAssemblyReference.cache
+D:\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+D:\TextEditor\TextEditor\obj\x86\Debug\TextEditor.TextEditor.resources
+D:\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.cache
+D:\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+D:\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+C:\Users\drewl\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\drewl\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\drewl\Desktop\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csprojAssemblyReference.cache
+C:\Users\drewl\Desktop\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Properties.Resources.resources
+C:\Users\drewl\Desktop\TextEditor\TextEditor\obj\x86\Debug\TextEditor.TextEditor.resources
+C:\Users\drewl\Desktop\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\drewl\Desktop\TextEditor\TextEditor\obj\x86\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\drewl\Desktop\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+C:\Users\drewl\Desktop\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+C:\Users\drewl\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.exe.manifest
+C:\Users\drewl\Desktop\TextEditor\TextEditor\bin\Debug\TextEditor.application
+C:\Users\drewl\Desktop\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe.manifest
+C:\Users\drewl\Desktop\TextEditor\TextEditor\obj\x86\Debug\TextEditor.application
